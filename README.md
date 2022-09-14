@@ -1,1 +1,3 @@
-# gitfav
+# GitFav
+
+Desafio Explorer da Rocketseat.
